@@ -1,0 +1,8 @@
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\bin\Debug\BackgroundTaskDemo.exe.config
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\bin\Debug\BackgroundTaskDemo.exe
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\bin\Debug\BackgroundTaskDemo.pdb
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\obj\Debug\BackgroundTaskDemo.MainForm.resources
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\obj\Debug\BackgroundTaskDemo.Properties.Resources.resources
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\obj\Debug\BackgroundTaskDemo.csproj.GenerateResource.Cache
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\obj\Debug\BackgroundTaskDemo.exe
+c:\users\pratap.reddy\documents\visual studio 2013\Projects\BackgroundTaskDemo\BackgroundTaskDemo\obj\Debug\BackgroundTaskDemo.pdb
